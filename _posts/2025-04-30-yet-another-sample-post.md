@@ -12,4 +12,4 @@ This is another blog post using **Jekyll** on **GitHub Pages**.
 
 Stay tuned for more updates and lots of thanks for stopping by! 
 
-> “Everything is theoretically impossible, until it is done.” – Robert A. Heinlein
+> “Everything is theoretically impossible, until it is done.” **– Robert A. Heinlein**
