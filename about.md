@@ -12,4 +12,4 @@ A student of Introduction to DevSecOps course
 
 ### Contact me
 
-[jaolivarh@gmail.com](mailto:jaolivarh@gmail.com)
+[jaolivarh **at** gmail **dot** com](mailto:jaolivarh@gmail.com)
