@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A student of Introduction to DevSecOps course
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[Introduction to DevSecOps @ Coursera](https://www.coursera.org/learn/introduction-to-devsecops)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jaolivarh@gmail.com](mailto:jaolivarh@gmail.com)
