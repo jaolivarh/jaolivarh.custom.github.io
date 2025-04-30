@@ -20,7 +20,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: jaolivarh # barryclark/jekyll-now
+  github: jaolivarh.github.io # barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
@@ -46,7 +46,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "https://jaolivarh.github.io/jaolivarh.custom.github.io/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
